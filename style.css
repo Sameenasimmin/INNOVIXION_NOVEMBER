@@ -1,0 +1,41 @@
+ <html>
+<head>
+<style>
+#app {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+textarea {
+    width: 100%;
+    height: 100px;
+    margin: 10px 0;
+}
+
+button {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    font-size: 18px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+</style>
+</head>
+</html>
